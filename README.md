@@ -28,3 +28,4 @@
 
 #### Finally, the website must be deployed to GitHub pages.
 
+https://jerodrhodes.github.io/Web-Design-Challenge/
